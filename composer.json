@@ -1,0 +1,17 @@
+{
+    "name": "root/bank-project",
+    "description": "bank",
+    "autoload": {
+        "psr-4": {
+            "Root\\BankProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vitu"
+        }
+    ],
+    "require": {
+        "ramsey/uuid": "^4.2"
+    }
+}
